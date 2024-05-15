@@ -1,26 +1,26 @@
-### sample for UNIX and MacOS
+### info for UNIX and MacOS
 ```
 print map{/ /?'/':".-,-...,-.-.,-..,.,"."..-.--....-.-.-.-.--.-.-.-...-.-...--.--.---.-.--..-"[index"ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789,.?",uc($_)]}." "split//,<>;
 ```
 
-### sh run the perl script
+### bash 
 ```
 perl 141.pl
 ```
 ### example
 ```
-echo "ABC 123" | perl 141.pl just type some text
+echo "ABC 123" | perl 141.pl 
 ```
 ### output example
 ```
 .- -... -.-. / .---- ..--- ...--
 ```
-### make the script an exe
+### makes the script an exe
 
 ```
 chmod +x 141.pl
 ```
-### if scripts an exe then bash
+### if scripts an exe then simplly bash
 
 ```
 ./141.pl
