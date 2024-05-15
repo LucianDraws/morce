@@ -20,7 +20,7 @@ echo "ABC 123" | perl 141.pl just type some text
 ```
 chmod +x 141.pl
 ```
-### if scripts an exe
+### if scripts an exe then bash
 
 ```
 ./141.pl
