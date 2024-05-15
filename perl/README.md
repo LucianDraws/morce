@@ -5,11 +5,11 @@ print map{/ /?'/':".-,-...,-.-.,-..,.,"."..-.--....-.-.-.-.--.-.-.-...-.-...--.-
 
 ### sh run the perl script
 ```
-perl morse.pl
+perl 141.pl
 ```
 ### example
 ```
-echo "ABC 123" | perl morse.pl just type some text
+echo "ABC 123" | perl 141.pl just type some text
 ```
 ### output example
 ```
@@ -18,10 +18,10 @@ echo "ABC 123" | perl morse.pl just type some text
 ### make the script an exe
 
 ```
-chmod +x morse.pl
+chmod +x 141.pl
 ```
 ### if scripts an exe
 
 ```
-./morse.pl
+./141.pl
 ```
