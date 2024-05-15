@@ -19,5 +19,4 @@ This version of the code is 108 characters long.
 ```c
 main(c){while((c=toupper(getchar())-32)<59)W("9d-~!a^}J}[y*~ho,.V{5-@1e"[c-13]-36);}
 
-gcc -o morse morse.c
-./morse
+
