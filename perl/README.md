@@ -10,3 +10,8 @@ echo "ABC 123" | perl morse.pl
 ```
 .- -... -.-. / .---- ..--- ...--
 ```
+### make script exe
+
+```
+chmod +x morse.pl
+```
