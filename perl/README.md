@@ -1,4 +1,4 @@
-### sample
+### sample for UNIX and MacOS
 ```
 print map{/ /?'/':".-,-...,-.-.,-..,.,"."..-.--....-.-.-.-.--.-.-.-...-.-...--.--.---.-.--..-"[index"ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789,.?",uc($_)]}." "split//,<>;
 ```
