@@ -46,7 +46,7 @@ When the program runs type in a passage like: `The scenery outside was awfully d
 - .... . / ... -.-. . -. . .-. -.-- / --- ..- - ... .. -.. . / .-- .- ... / .- .-- ..-. ..- .-.. .-.. -.-- / -.. .. ..-. ..-. . .-. . -. - / ..-. .-. --- -- / - .... . / --- -. . / .. .----. -- / ..- ... . -.. / - --- / ... . . / -... .- -.-. -.- / .. -. / - .... . / -.-. .. - -.--
 ```
 
-### Challenge question by **https://stackoverflow.com/users/41983/liranuna
+### Challenge question by https://stackoverflow.com/users/41983/liranuna
 
 
 
