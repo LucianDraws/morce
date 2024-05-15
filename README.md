@@ -4,7 +4,7 @@ This post contains short codes that will input a string using only alphabetical 
 
 Each letter is separated by a space (' ', ASCII 0x20), and each word is separated by a forward slash (/, ASCII 0x2F).
 
-## Summary
+## Example
 
 ### morse3.c
 
