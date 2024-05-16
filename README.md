@@ -1,10 +1,7 @@
 # morse 
-\
-### example
-
 108.
 
-`W(i){i?W(i/2),putchar(46-i%2):0;}` is a recursive function that prints Morse code dots (.) and dashes (-).
+`W(i){i?W(i/2),putchar(46-i%2):0;}` 
 
 ```c
 main(c){while((c=toupper(getchar())-32)<59)W("9d-~!a^}J}[y*~ho,.V{5-@1e"[c-13]-36);}
@@ -25,7 +22,7 @@ main(c){
 gcc -o morse morse.c
 ./morse.c
 ```
-input: `The scenery outside was awfully different from the one I'm used to see back in the city`
+`The scenery outside was awfully different from the one I'm used to see back in the city`
 
 ### Output: 
 
