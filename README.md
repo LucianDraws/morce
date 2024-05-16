@@ -1,4 +1,4 @@
-# morse 
+# morce 
 108.
 
 `W(i){i?W(i/2),putchar(46-i%2):0;}` 
